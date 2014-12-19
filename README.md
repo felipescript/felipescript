@@ -19,6 +19,6 @@ Cualquier versión de Mac OS X
 
 Contacto
 ========
-javier@felipescript.com
-delafuentegrafologia@gmail.com
+javier@felipescript.com  
+delafuentegrafologia@gmail.com  
 http://www.felipescript.com
